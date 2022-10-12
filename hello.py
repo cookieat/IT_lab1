@@ -1,5 +1,6 @@
 print('Hello,world')
 print('Goodbye, world')
 print('This is from addfile1')
+print ('Special for conflict')
 print('This is from addfile2')
 print('Hello')

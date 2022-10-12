@@ -1,7 +1,6 @@
 print('Hello,world')
 print('Goodbye, world')
 print('Message in master')
-print('This is from addfile1')
 print('This is from addfile2')
 print('For conflict')
 print('Hello')
